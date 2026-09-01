@@ -2,6 +2,10 @@
 #
 # Get latest from https://github.com/github/gitignore/blob/main/Unity.gitignore
 #
+
+# Rider 설정 파일도 추적 / 버전관리 안할래요
+.idea
+
 .utmp/
 /[Ll]ibrary/
 /[Tt]emp/
